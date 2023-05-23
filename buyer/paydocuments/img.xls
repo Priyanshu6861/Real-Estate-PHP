@@ -1,0 +1,17 @@
+  
+
+
+ <table class="table table-striped b-t b-light">
+        <thead>
+          <tr>
+            <th>Register Date</th>
+			<th>User Name</th>
+			<th>Password</th>
+			<th>User Type</th>
+			<th>Contact No</th>
+			<th>Emailid</th>
+          </tr>
+        </thead>
+        <tbody>
+		 <tr><td>2022-03-04</td><td>Admin</td><td>123</td><td>Admin</td><td>1111111111111</td><td>priyanshujoshi2252@gmail.com</td></tr><tr><td>2022-03-04</td><td>Builder</td><td>1234</td><td>Builder</td><td>8780609888</td><td>harshgandhi0512@gmail.com</td></tr><tr><td>2022-03-04</td><td>Buyer</td><td>12345</td><td>Buyer</td><td>878787878787</td><td>buyer@gmail.com</td></tr><tr><td>2022-03-04</td><td>kirit sir</td><td>123456</td><td>Admin</td><td>989898989</td><td>kiritsir@gmail.com</td></tr><tr><td>2022-03-04</td><td>priyanshu</td><td>14</td><td>Admin</td><td>9825756861</td><td>priyanshujoshi@gmail.com</td></tr><tr><td>2022-04-02</td><td>Builder2</td><td>4321</td><td>Builder</td><td>1234567890</td><td>Builder2@gmail.com</td></tr><tr><td>Total :  6</td><td></td><td></td><td></td><td></td></tr>        </tbody>
+      </table>

@@ -1,0 +1,21 @@
+﻿Card Type: Visa
+
+Card Name: Test
+
+Card Number: 4012001037141112
+
+Expiry Date : 05/22
+
+CVV : 123
+
+Card Type: Master
+
+Card Name: Test
+
+Card Number: 5123 4567 8901 2346
+
+Expiry Date : 05/22
+
+CVV : 123
+
+OTP :123456
